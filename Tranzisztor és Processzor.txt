@@ -1,0 +1,27 @@
+     Tranzisztor és processzor
+
+1. N-típusú: Amikor az ötödik le nem kötött elektron nagyon könnyen felszabadul. Foszfor és szilícium.
+
+2. P-típusú: Amikor egy lyuk keletkezik és egy szomszédos elektron képes tölteni bármikor. Vór és szilícium.
+
+3. Dióda: Amikor a zsilícium egy részét P-típusúnak, a másikat pedig N-típusúnak szennyezzük.
+
+4. Tranzosztor a számítástechnikában: Ki- és be tudja kapcsolni a működését, ezzel megnyitja az ajtókat a digitális -elektronika és -memória világához.
+
+5. Órajel: Oylan jel ami egy vagy több áramkör tevékenységét kordinálja.
+
+6. Memóriacím:Egy program futtatásához kellő kezdetleges adatokat tárolja.
+
+7. 8 alapművelet:
+
+8. ALU:
+
+- LOAD
+- ADD
+- STORE
+- COMPARE
+- JUMP IF Condition
+- JUMP
+- OUT
+- IN
+   register: Mikor a vezérlőegység elindítja az ENABLE bemenetet a register kimenetén megjelenik a benne tárolt adat, majd a processzor adatsínjéhez kapcsolódnak majd kapcsolatot létesít.
