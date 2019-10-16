@@ -14,7 +14,7 @@
 
 7. 8 alapművelet:
 
-8. ALU:
+8. ALU:Ez hajtja végre az összes matematikai műveletet.
 
 - LOAD
 - ADD
